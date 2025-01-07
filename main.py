@@ -5,3 +5,5 @@ print("Veikia")
 
 for x in range(8):
     print("Laba diena")
+
+print("Programos pabaiga")
